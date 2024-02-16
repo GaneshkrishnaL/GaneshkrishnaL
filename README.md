@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @GaneshkrishnaL
 - 🌱 I’m currently learning data science and i thrive to develop models and provide insights.
 - 📫 Reach me at-
-Gmail-id -lakshmisetty.ganesh@gmail.com ,
-instagram- @ganesh.lakshmisetty
+Gmail-id -lakshmisetty.ganesh@gmail.com 
                         
 
 <!---
