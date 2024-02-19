@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @GaneshkrishnaL
-- 🌱 I’m currently learning data science and i thrive to develop models and provide insights.
+- 👋 Hi, I’m @Ganesh krishna
+-  🌱Graduate student pursuing a Master's in Computer Science at UT Arlington.
+-  🌱Specializing in data mining, analysis, and machine learning.
+-  🌱Excited to leverage data science expertise to drive transformative change.
+-  🌱Graduating in May 2024.
+-  🌱Currently working as Graduate Teaching Assistant for Data Mining.
 - 📫 Reach me at-
-Gmail-id -lakshmisetty.ganesh@gmail.com 
+Gmail-id - gxl6481@mavs.uta.edu
+LinkedIn - https://www.linkedin.com/in/gkrishnal/
+
                         
 
 <!---
