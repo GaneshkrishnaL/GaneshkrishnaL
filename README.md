@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ganesh krishna
 -  🌱Graduate student pursuing a Master's in Computer Science at UT Arlington.
--  🌱Specializing in data mining, analysis, and machine learning.
+-  🌱Specializing in Data Science and Software Engineering.
 -  🌱Excited to leverage data science expertise to drive transformative change.
 -  🌱Graduating in May 2024.
 -  🌱Currently working as Graduate Teaching Assistant for Data Mining.
