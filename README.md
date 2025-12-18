@@ -27,5 +27,4 @@ I practice data structures and algorithms regularly. You can find my solutions i
 - 💼 **LinkedIn**: [linkedin.com/in/gkrishnal](https://www.linkedin.com/in/gkrishnal/)  
 
 ## 📊 GitHub Stats  
-![Ganesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaneshkrishnaL&show_icons=true&hide=issues)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshkrishnaL&layout=compact) 
