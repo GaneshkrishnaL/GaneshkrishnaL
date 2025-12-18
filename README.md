@@ -1,9 +1,7 @@
 # 👋 Hi there, I'm Ganesh Krishna  
 ## 🚀 About Me  
-- 🎓 Master's student in Computer Science (specializing in Data Science & Software Engineering) at UT Arlington (Graduating May 2024).  
 - 💸 Passionate about leveraging data science and AI to solve real‑world problems.  
 - 🤠 Experienced in machine learning, NLP, deep learning, and software engineering.  
-- 👨‍🏫 Graduate Teaching Assistant for Data Mining.  
 
 ## 🧠 Technical Skills  
 - **Languages**: Python, Java, HTML  
@@ -13,12 +11,13 @@
 ## 🌟 Highlighted Projects  
 | Repository | Focus | Technologies |  
 | --- | --- | --- |  
+| [mlflow_dvc_cancer_classification](https://github.com/GaneshkrishnaL/mlflow_dvc_cancer_classification) | ML pipeline for cancer classification | Python, MLflow, DVC | 
 | [Search Engine python NLP TF IDF](https://github.com/GaneshkrishnaL/Search-Engine-python-NLP-TF-IDF) | Mini search engine with TF IDF | Python, NLP |  
 | [Sentiment Analysis on 50000 IMDB Movie Reviews Python NLP LSTM BI LSTM WORD2VEC-](https://github.com/GaneshkrishnaL/Sentiment-Analysis-on-50000-IMDB-Movie-Reviews-Python-NLP-LSTM-BI-LSTM-WORD2VEC-) | Sentiment analysis using LSTM & Word2Vec | Python, Deep Learning |  
 | [chatbot_medical](https://github.com/GaneshkrishnaL/chatbot_medical) | Medical chatbot | Python, LLM |  
 | [hr_agentic_ai](https://github.com/GaneshkrishnaL/hr_agentic_ai) | HR assistant | Python, AI |  
 | [rag_ecommerce_chatbot](https://github.com/GaneshkrishnaL/rag_ecommerce_chatbot) | RAG chatbot for ecommerce | Python, RAG |  
-| [mlflow_dvc_cancer_classification](https://github.com/GaneshkrishnaL/mlflow_dvc_cancer_classification) | ML pipeline for cancer classification | Python, MLflow, DVC |  
+ 
 
 ## 🧮 Competitive Programming  
 I practice data structures and algorithms regularly. You can find my solutions in the [Leetcode_Ganesh](https://github.com/GaneshkrishnaL/Leetcode_Ganesh) repository, which contains well‑commented solutions to coding challenges.  
